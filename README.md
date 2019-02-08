@@ -8,3 +8,4 @@ Web Sites
 - https://www.turanerdemsimsek.com/ 
 - http://ibrahimdelibasoglu.blogspot.com/
 - http://mavienginberk.blogspot.com/
+- https://medium.com/@sddkal
